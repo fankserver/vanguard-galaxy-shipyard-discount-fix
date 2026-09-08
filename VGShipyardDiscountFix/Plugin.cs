@@ -10,7 +10,7 @@ namespace VGShipyardDiscountFix;
 public class Plugin : BaseUnityPlugin
 {
     public const string PluginGuid = "vgshipyarddiscountfix";
-    public const string PluginName = "Vanguard Galaxy Shipyard Discount Fix";
+    public const string PluginName = "Shipyard Discount Fix";
     // BepInEx parses PluginVersion through System.Version which rejects SemVer
     // pre-release suffixes, so stick to the plain N.N.N form.
     public const string PluginVersion = "0.1.0";
