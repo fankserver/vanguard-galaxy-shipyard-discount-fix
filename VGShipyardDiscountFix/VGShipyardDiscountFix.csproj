@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
     <AssemblyName>VGShipyardDiscountFix</AssemblyName>
-    <Product>Vanguard Galaxy Shipyard Discount Fix</Product>
+    <Product>Shipyard Discount Fix</Product>
     <Version>0.1.0</Version>
     <LangVersion>latest</LangVersion>
     <Nullable>enable</Nullable>
